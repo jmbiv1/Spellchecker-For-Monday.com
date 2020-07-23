@@ -3,7 +3,7 @@ Spellchecker integration for Monday.com
 
 ## Overview
 This is the Spellchecker Integration Monday app. 
-<br>It can be used as a board recipe, which autocorrects any <del>mispellings</del> <ins>misspellings</ins> in a given text column
+<br>It can be used as a board recipe, which autocorrects any <del>mispellings</del> misspellings in a given text column
 
 ## Add Spellchecker integration to your board
 1. Go to any board at monday.com (it should have at least 1 text column) and add your new integration recipe to it. It is listed under the name "Spellchecker"
